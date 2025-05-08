@@ -24,7 +24,7 @@ function setup() {
 
 function draw() {
   
-  image(img, 210, 140);
+  image(img, 210, 140, 200, 200);
    
    
 }
